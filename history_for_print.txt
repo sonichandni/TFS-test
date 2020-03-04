@@ -1,0 +1,77 @@
+    1  sudo apt-get install libreoffice
+    2  clear
+    3  eject
+    4  eject
+    5  eject
+    6  eject
+    7  htop
+    8  ll
+    9  ls
+   10  cd Chandni/
+   11  ll
+   12  ls
+   13  mkdir TS
+   14  cd TS
+   15  ll
+   16  clear
+   17  history
+   18  claer
+   19  clear
+   20  clear
+   21  python3 -m venv venv
+   22  ls
+   23  . venv/bin/activate
+   24  pip install tensorflow
+   25  pip uninstall tensorflow
+   26  clear
+   27  sudo apt-get update
+   28  sudo apt-get autoremove
+   29  sudo rm -rf ~/.cache/thumbnails/*
+   30  sudo apt-get clean
+   31  pip uninstall tensorflow
+   32  pip install --upgrade pip
+   33  pip install tf-nightly
+   34  pip list
+   35  036101529443echo "deb [arch=amd64] http://storage.googleapis.com/tensorflow-serving-apt stable tensorflow-model-server tensorflow-model-server-universal" | sudo tee /etc/apt/sources.list.d/tensorflow-serving.list && curl https://storage.googleapis.com/tensorflow-serving-apt/tensorflow-serving.release.pub.gpg | sudo apt-key add -
+   36  apt-get install curl
+   37  sudo apt-get install curl
+   38  echo "deb [arch=amd64] http://storage.googleapis.com/tensorflow-serving-apt stable tensorflow-model-server tensorflow-model-server-universal" | sudo tee /etc/apt/sources.list.d/tensorflow-serving.list && curl https://storage.googleapis.com/tensorflow-serving-apt/tensorflow-serving.release.pub.gpg | sudo apt-key add -
+   39  sudo apt-get install tensorflow-model-server
+   40  apt-get install tensorflow-model-server
+   41  sudo apt-get install tensorflow-model-server
+   42  sudo apt-get update
+   43  sudo apt-get install tensorflow-model-server
+   44  mkdir my_model
+   45  cd my_model/
+   46  mkdir 1
+   47  cd 1
+   48  mkdir variables
+   49  cd variables/
+   50  cd ..
+   51  cd..
+   52  cd ..
+   53  cd ..
+   54  code .
+   55  code .
+   56  git rm -r --cached .
+   57  ls
+   58  git rm -r --cached 
+   59  git rm -r --cached .
+   60  git rm
+   61  git status
+   62  git add .
+   63  git commit -m "Initial commit"
+   64  git remote add origin https://github.com/sonichandni/TFS-test.git
+   65  git push -u origin master
+   66  git config user.name
+   67  git config user.name "Chandni Soni"
+   68  git config user.email
+   69  git config user.email "soni.chandni.415@gmail.com"
+   70  git push -u origin master
+   71  git status
+   72  git push
+   73  git push origin master
+   74  git commit -m "Initial commit"
+   75  git push -u origin master
+   76  python predict-mnist-results.py 
+   78  history > history_for_print.txt
